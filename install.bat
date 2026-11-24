@@ -1,6 +1,6 @@
 @echo off
 echo ============================================================
-echo   The Powder Toy - Optional Binary Patcher (Late Alpha)
+echo   The Powder Toy - Optional Binary Patcher (Early Alpha)
 echo ============================================================
 echo.
 py "%~dp0patch_powder.py"
