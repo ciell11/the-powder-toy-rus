@@ -1,12 +1,12 @@
-# The Powder Toy — Russian Localization (Late Alpha)
+# The Powder Toy — Russian Localization (Early Alpha)
 
-![Status](https://img.shields.io/badge/status-Late_Alpha_(Very_Buggy)-red)
+![Status](https://img.shields.io/badge/status-Early_Alpha_(Very_Buggy)-red)
 ![Platform](https://img.shields.io/badge/platform-Windows_x64_(Steam)-blue)
 
 A Russian localization mod for **The Powder Toy** (Steam x64, v100+).
 
 > [!WARNING]
-> **Late Alpha / Experimental Build:** This release is **very buggy** and unfinished. Expect rough edges, untranslated UI parts, search quirks, or visual/layout issues depending on your setup. Use at your own risk and back up your files first.
+> **Early Alpha / Experimental Build:** This release is **very buggy** and unfinished. Expect rough edges, untranslated UI parts, search quirks, or visual/layout issues depending on your setup. Use at your own risk and back up your files first.
 
 ---
 
@@ -34,7 +34,7 @@ Delete `autorun.lua` from the game root folder and from `userdata/`. If you used
 
 ---
 
-## Known Issues (Late Alpha)
+## Known Issues (Early Alpha)
 
 - Hardcoded C++ engine UI (walls, categories, settings, confirmation dialogs) remains in English unless you manually run the experimental [`patch_powder.py`](patch_powder.py) script.
 - Text layout, clipping, or overlapping may occur on certain UI elements or resolutions.
